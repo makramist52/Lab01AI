@@ -1,2 +1,2 @@
 # Lab01AI
-Lab 01 Artifical Intelligence
+Lab 01 Artificial Intelligence
